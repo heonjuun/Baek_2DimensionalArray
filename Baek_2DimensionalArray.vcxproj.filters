@@ -24,5 +24,8 @@
     <ClCompile Include="10798.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2563.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
